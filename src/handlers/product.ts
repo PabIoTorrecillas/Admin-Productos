@@ -19,7 +19,11 @@ export const getProductById = async  (req: Request, res: Response) => {
 try {
         console.log(req.params.id)
         const { id } = req.params;
-        const product = await Product.findByPk(id)
+        const product = await Product.findByPk(id,{
+            attributes:{exclude:[
+                'createdAt', 'updatedAt','availability'
+            ]}
+        })
         
         if (!product) {
             return res.status(404).json({error: "Product not found"});
@@ -37,4 +41,20 @@ export const createProduct = async (req: Request, res: Response) => {
     } catch (error) {
         console.error(error);
     }
+}
+
+export const updateProduct = async (req: Request, res: Response) => {
+        const { id } = req.params;
+        const product = await Product.findByPk(id)
+        
+        if (!product) {
+            return res.status(404).json({error: "Product not found"
+            })
+        }
+
+        // Update the product with the new data
+        await product.update(req.body);
+        await product.save();
+
+        res.json({data:product});
 }
