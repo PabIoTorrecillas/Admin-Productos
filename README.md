@@ -98,8 +98,8 @@ Primer test:<br>
 Probando URL con Supertest:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/43dda113f3713818c3e143cff32cbdff6cdedcbb">Commit - Testing an URL with Supertest
 
-Negar una condición para evitar falsos:<br>
-<a href="">Commit - Middleware
+Negar una condición para evitar falsos positivos:<br>
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/df436cd24a8c7bb0fbdbc36d91c3fc7cc676d52f">Commit - Denying conditions
 
 Probar el EndPoint de crear Producto:<br>
 <a href="">Commit - Middleware
