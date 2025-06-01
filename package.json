@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/PabIoTorrecillas/Admin-Productos/issues"
   },
-  "homepage": "https://github.com/PabIoTorrecillas/Admin-Productos#readme"
+  "homepage": "https://github.com/PabIoTorrecillas/Admin-Productos#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
 }
