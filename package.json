@@ -1,0 +1,19 @@
+{
+  "name": "admin-productos",
+  "version": "1.0.0",
+  "description": "Equipo: Pablo y Gabriel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PabIoTorrecillas/Admin-Productos.git"
+  },
+  "author": "Pablo Torrecillas y Gabriel Josafat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PabIoTorrecillas/Admin-Productos/issues"
+  },
+  "homepage": "https://github.com/PabIoTorrecillas/Admin-Productos#readme"
+}
