@@ -88,3 +88,48 @@ Put vs Patch:<br>
 
 Creando el Endpoint para DELETE:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/4ba20a5d9ff07dee5fe970facb5365b25c1c3704">Commit - EndPoint Delete Product
+
+Intro Testing de API's y Herramientas:<br>
+<a href="">Commit - Middleware
+
+Primer test:<br>
+<a href="">Commit - Middleware
+
+Probando URL con Supertest:<br>
+<a href="">Commit - Middleware
+
+Negar una condición para evitar falsos:<br>
+<a href="">Commit - Middleware
+
+Probar el EndPoint de crear Producto:<br>
+<a href="">Commit - Middleware
+
+Prueba de Validación de Crear Producto:<br>
+<a href="">Commit - Middleware
+
+Validar que el Producto > 0:<br>
+<a href="">Commit - Middleware
+
+Limpiar la BD:<br>
+<a href="">Commit - Middleware
+ 
+Probar la url de productos:<br>
+<a href="">Commit - Middleware
+
+Probando product por ID:<br>
+<a href="">Commit - Middleware
+
+Probando actualización de Productos:<br>
+<a href="">Commit - Middleware
+
+Probando eliminación de Productos:<br>
+<a href="">Commit - Middleware
+
+Métricas de validación - Code Coverage:<br>
+<a href="">Commit - Middleware
+
+Probar otras funciones:<br>
+<a href="">Commit - Middleware
+
+Forzar errores - prueba de catchs:<br>
+<a href="">Commit - Middleware
