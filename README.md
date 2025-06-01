@@ -20,7 +20,7 @@ Nodemon:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/d96a96013ad05db8d5d559db0348009133d58ba4">Commit - Nodemon
 
 tsconfig:<br>
-<a href="">Commit - Primeros Pasos
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/03c5f6ee39c21b0623d2df11c4282d396dfaea6b">Commit - TS Config
 
 Servidor con Express:<br>
 <a href="">Commit - Primeros Pasos
