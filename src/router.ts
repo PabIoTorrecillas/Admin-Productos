@@ -1,14 +1,21 @@
 import { Router } from "express";
-import { createProduct, getProducts } from "./handlers/product";
-import { body } from "express-validator";
+import { createProduct, getProductById, getProducts } from "./handlers/product";
+import { body, param } from "express-validator";
 import { handleInputErrors } from "./middleware";
 
 
 const router = Router();
 
-router.get("/products", getProducts);
+router.get("/", getProducts);
+router.get("/:id", 
+    
+// Validate request parameters
+    param('id')
+            .isInt().withMessage('El id debe ser un numero'),
+    handleInputErrors,
+    getProductById);
 
-router.post("/products",
+router.post("/",
     // Validate request body
     body('name')
             .notEmpty().withMessage('El nombre del producto no puede ir vacio'),
@@ -20,15 +27,15 @@ router.post("/products",
     createProduct
 );
 
-router.put("/products", (req, res) => {
+router.put("/", (req, res) => {
     res.json("Desde PUT");
 });
 
-router.patch("/products", (req, res) => {
+router.patch("/", (req, res) => {
     res.json("Desde PATCH");
 });
 
-router.delete("/products", (req, res) => {
+router.delete("/", (req, res) => {
     res.json("Desde DELETE");
 });
 
