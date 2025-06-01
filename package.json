@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/PabIoTorrecillas/Admin-Productos#readme",
   "devDependencies": {
-        "@types/express": "^4.17.20",
+    "@types/express": "^4.17.20",
     "nodemon": "^3.1.10",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3"
