@@ -66,7 +66,7 @@ Agregando Productos:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/3ac7fa621ee9af6a22d68154fa6f7d7e1a1782e1">Commit - Primeros Pasos
 
 Validación de Crear Productos:<br>
-<a href="">Commit - Primeros Pasos
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/0889523e5665ace0bf72ec5195c5d1d17e0430c6">Commit - Primeros Pasos
 
 Moviendo la validación al router:<br>
 <a href="">Commit - Primeros Pasos

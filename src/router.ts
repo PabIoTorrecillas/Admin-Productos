@@ -1,5 +1,8 @@
 import { Router } from "express";
 import { createProduct } from "./handlers/product";
+import Product from "./models/Prodcut.model";
+import { check, validationResult, body } from "express-validator";
+
 
 const router = Router();
 
@@ -7,7 +10,17 @@ router.get("/products", (req, res) => {
     res.json("Desde GET");
 });
 
-router.post("/products", createProduct);
+router.post("/products",
+    // Validate request body
+    body('name')
+            .notEmpty().withMessage('El nombre del producto no puede ir vacio'),
+    body('price')
+            .isNumeric().withMessage('Valor no valido')
+            .notEmpty().withMessage('El precio del producto no puede ir vacio')
+            .custom(value => value > 0).withMessage('El precio del producto debe ser mayor a 0')
+,
+    createProduct
+);
 
 router.put("/products", (req, res) => {
     res.json("Desde PUT");
