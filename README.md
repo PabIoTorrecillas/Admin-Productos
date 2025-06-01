@@ -57,7 +57,7 @@ Colors?:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/09b38dc7b2aafa2e0f3db85765e8dd94d73b3b16">Commit - Colors
 
 Creando Modelos en la BD:<br>
-<a href="">Commit - Primeros Pasos
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/5ef41c9be2a9f157ca8173b399456d7a5eee0e49">Commit - Primeros Pasos
 
 Funcion para crear Productos:<br>
 <a href="">Commit - Primeros Pasos
@@ -84,7 +84,7 @@ Creando el Endpoint para Actualizar:<br>
 <a href="">Commit - Primeros Pasos
 
 Put vs Patch:<br>
-<a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/e00f83674fd6b8fccaaa28c59e5f8a81fb9e7bac">Commit - Primeros Pasos
+<a href="">Commit - Primeros Pasos
 
 Creando el Endpoint para DELETE:<br>
-<a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/e00f83674fd6b8fccaaa28c59e5f8a81fb9e7bac">Commit - Primeros Pasos
+<a href="">Commit - Primeros Pasos
