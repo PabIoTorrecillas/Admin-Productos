@@ -1,15 +1,12 @@
 import { Router } from "express";
-import { createProduct } from "./handlers/product";
-import Product from "./models/Prodcut.model";
-import { check, validationResult, body } from "express-validator";
+import { createProduct, getProducts } from "./handlers/product";
+import { body } from "express-validator";
 import { handleInputErrors } from "./middleware";
 
 
 const router = Router();
 
-router.get("/products", (req, res) => {
-    res.json("Desde GET");
-});
+router.get("/products", getProducts);
 
 router.post("/products",
     // Validate request body

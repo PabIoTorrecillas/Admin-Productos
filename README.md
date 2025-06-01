@@ -72,7 +72,7 @@ Moviendo la validación al router:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/85c8f3cdf41a13e4540b59933af82298cc54d73f">Commit - Validation to router
 
 Middleware:<br>
-(Solo explicativo, sin codificar)
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/e2229f81ca6c41667aeac199e53263e2e77dbddc">Commit - Middleware
 
 Endpoint para allProducts:<br>
 <a href="">Commit - Primeros Pasos
