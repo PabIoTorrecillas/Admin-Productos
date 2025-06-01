@@ -1,7 +1,7 @@
 # Admin-Productos
 Links a commit de todas las funcionalidades implemantadas:
 
-El proyecto que vamos a contruir:<br>
+<strong>El proyecto que vamos a contruir:</strong><br>
 (Solo explicativo, aun sin codificar)
 
 Que son las rest api's?<br>
@@ -30,7 +30,7 @@ Métodos HTTP y Postman:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/41ea48b47e8bf007b7db59cb4def44d553a2c53c">Commit - Meotod HTTPS y Postman
 
 Routing en Expres:<br>
-<a href="">Commit - Primeros Pasos
+(Solo explicativo, sin codificar)
 
 Probando rutas:<br>
 <a href="">Commit - Primeros Pasos
