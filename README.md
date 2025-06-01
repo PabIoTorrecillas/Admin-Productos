@@ -84,7 +84,7 @@ Creando el Endpoint para Actualizar:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/0476ed5410e86289675837c269ac0e53c4970351">Commit - EndPoint to Update
 
 Put vs Patch:<br>
-<a href="">Commit - Primeros Pasos
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/d3b6658a2dd701336e69f796e82eacf1822d3bd2">Commit - EndPoint update availability
 
 Creando el Endpoint para DELETE:<br>
 <a href="">Commit - Primeros Pasos
