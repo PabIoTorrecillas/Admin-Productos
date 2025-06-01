@@ -81,7 +81,7 @@ Endpoint para obtner un Producto:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/3191ad87ee69894b0cc52584284c6a47779867bd">Commit - Endpoint ProducById
 
 Creando el Endpoint para Actualizar:<br>
-<a href="">Commit - Primeros Pasos
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/0476ed5410e86289675837c269ac0e53c4970351">Commit - EndPoint to Update
 
 Put vs Patch:<br>
 <a href="">Commit - Primeros Pasos
