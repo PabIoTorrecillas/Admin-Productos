@@ -3,21 +3,21 @@ import { createProduct } from "./handlers/product";
 
 const router = Router();
 
-router.get("/productos", (req, res) => {
+router.get("/products", (req, res) => {
     res.json("Desde GET");
 });
 
-router.post("/productos", createProduct);
+router.post("/products", createProduct);
 
-router.put("/productos", (req, res) => {
+router.put("/products", (req, res) => {
     res.json("Desde PUT");
 });
 
-router.patch("/productos", (req, res) => {
+router.patch("/products", (req, res) => {
     res.json("Desde PATCH");
 });
 
-router.delete("/productos", (req, res) => {
+router.delete("/products", (req, res) => {
     res.json("Desde DELETE");
 });
 
