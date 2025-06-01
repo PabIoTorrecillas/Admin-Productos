@@ -57,10 +57,10 @@ Colors?:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/09b38dc7b2aafa2e0f3db85765e8dd94d73b3b16">Commit - Colors
 
 Creando Modelos en la BD:<br>
-<a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/5ef41c9be2a9f157ca8173b399456d7a5eee0e49">Commit - Primeros Pasos
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/5ef41c9be2a9f157ca8173b399456d7a5eee0e49">Commit - Creando Modelos en la BD
 
 Funcion para crear Productos:<br>
-<a href="">Commit - Primeros Pasos
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/2f49f9f549bd69650a7544f19a8783427d4457f8">Commit - Funcion para crear Productos
 
 Agregando Productos:<br>
 <a href="">Commit - Primeros Pasos
