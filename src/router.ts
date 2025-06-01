@@ -2,6 +2,7 @@ import { Router } from "express";
 import { createProduct } from "./handlers/product";
 import Product from "./models/Prodcut.model";
 import { check, validationResult, body } from "express-validator";
+import { handleInputErrors } from "./middleware";
 
 
 const router = Router();
@@ -17,8 +18,8 @@ router.post("/products",
     body('price')
             .isNumeric().withMessage('Valor no valido')
             .notEmpty().withMessage('El precio del producto no puede ir vacio')
-            .custom(value => value > 0).withMessage('El precio del producto debe ser mayor a 0')
-,
+            .custom(value => value > 0).withMessage('El precio del producto debe ser mayor a 0'),
+    handleInputErrors,
     createProduct
 );
 

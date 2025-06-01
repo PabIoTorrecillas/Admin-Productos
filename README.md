@@ -63,16 +63,16 @@ Funcion para crear Productos:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/2f49f9f549bd69650a7544f19a8783427d4457f8">Commit - Funcion para crear Productos
 
 Agregando Productos:<br>
-<a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/3ac7fa621ee9af6a22d68154fa6f7d7e1a1782e1">Commit - Primeros Pasos
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/3ac7fa621ee9af6a22d68154fa6f7d7e1a1782e1">Commit - Add products to BD
 
 Validación de Crear Productos:<br>
-<a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/0889523e5665ace0bf72ec5195c5d1d17e0430c6">Commit - Primeros Pasos
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/0889523e5665ace0bf72ec5195c5d1d17e0430c6">Commit - Validate create product
 
 Moviendo la validación al router:<br>
-<a href="">Commit - Primeros Pasos
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/85c8f3cdf41a13e4540b59933af82298cc54d73f">Commit - Validation to router
 
 Middleware:<br>
-<a href="">Commit - Primeros Pasos
+(Solo explicativo, sin codificar)
 
 Endpoint para allProducts:<br>
 <a href="">Commit - Primeros Pasos
