@@ -51,7 +51,7 @@ Colocando variables de Entorno:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/445bacb8f02b0dd35d48a3570b733ec238851630">Commit - Primeros Pasos
 
 Conectando la BD con dbeaver y tableplus:<br>
-<a href="">Commit - Primeros Pasos
+(Solo explicativo, sin codificar)
 
 Colors?:<br>
 <a href="">Commit - Primeros Pasos
