@@ -18,6 +18,9 @@ async function connectDB() {
 connectDB();
 const server = express();
 
+//Leer datos de formulario
+server.use(express.json());
+
 server.use('/api/products', Router);
 
 export default server;
