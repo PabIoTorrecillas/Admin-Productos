@@ -1,4 +1,5 @@
 import { Router } from "express";
+import { createProduct } from "./handlers/product";
 
 const router = Router();
 
@@ -6,9 +7,7 @@ router.get("/productos", (req, res) => {
     res.json("Desde GET");
 });
 
-router.post("/productos", (req, res) => {
-    res.json("Desde POST");
-});
+router.post("/productos", createProduct);
 
 router.put("/productos", (req, res) => {
     res.json("Desde PUT");
