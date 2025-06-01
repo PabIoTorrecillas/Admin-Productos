@@ -39,10 +39,10 @@ Separando las rutas:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/ac42aaa371396da4544f1163a3e5dce46a0cd1f7">Commit - Separando rutas
 
 ORM:<br>
-<a href="">Commit - Primeros Pasos
+(Solo explicativo, sin codificar)
 
 Creando DB en Render:<br>
-<a href="">Commit - Primeros Pasos
+(Solo explicativo, sin codificar)
 
 Conectando la Aplic a la BD:<br>
 <a href="">Commit - Primeros Pasos
