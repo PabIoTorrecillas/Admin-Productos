@@ -4,7 +4,7 @@ Links a commit de todas las funcionalidades implemantadas:
 <strong>El proyecto que vamos a contruir:</strong><br>
 (Solo explicativo, aun sin codificar)
 
-Que son las rest api's?<br>
+<b>Que son las rest api's?</b><br>
 (Solo explicativo, aun sin codificar)
 
 PERN Stack:<br>
