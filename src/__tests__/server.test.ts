@@ -8,5 +8,8 @@ describe('GET /api', () => {
         expect(res.statusCode).toBe(200);
         expect(res.headers['content-type']).toMatch(/json/)
         expect(res.body).toBe('Desde API');
+
+        expect(res.status).not.toBe(404);
+        expect(res.body).not.toBe('desde api');
     })
 })
