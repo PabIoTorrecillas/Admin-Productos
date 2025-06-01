@@ -17,13 +17,13 @@ Typescript con Node.js: <br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/09a6ac146a8555ffc28e5f3f401ca03e7e096594">Commit - Typescript con Node.js
 
 Nodemon:<br>
-<a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/e00f83674fd6b8fccaaa28c59e5f8a81fb9e7bac">Commit - Primeros Pasos
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/d96a96013ad05db8d5d559db0348009133d58ba4">Commit - Nodemon
 
 tsconfig:<br>
-<a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/e00f83674fd6b8fccaaa28c59e5f8a81fb9e7bac">Commit - Primeros Pasos
+<a href="">Commit - Primeros Pasos
 
 Servidor con Express:<br>
-<a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/e00f83674fd6b8fccaaa28c59e5f8a81fb9e7bac">Commit - Primeros Pasos
+<a href="">Commit - Primeros Pasos
 
 Métodos HTTP y Postman:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/e00f83674fd6b8fccaaa28c59e5f8a81fb9e7bac">Commit - Primeros Pasos
