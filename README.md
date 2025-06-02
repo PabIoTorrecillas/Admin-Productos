@@ -140,7 +140,7 @@ Swagger:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/af7be03a7a79e846d48594e573503efe4b3282c9">Commit - Swagger
 
 Documentando todos los productos:<br>
-<a href="">Commit - PENDIENTE
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/1db761ebad4cdaa7133534aa2c6ca9e8bdad33b6">Commit - Documentando todos los productos
 
 Productos x ID:<br>
 <a href="">Commit - PENDIENTE
