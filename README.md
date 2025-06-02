@@ -147,7 +147,7 @@ Productos x ID:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/2deea122b12ecf50d8184333a93b016b60a25068">Commit - Productos x ID
 
 Crear Producto:<br>
-<a href="">Commit - PENDIENTE
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/3e9091a56c58d18c39884907505fe2f90cf01742">Commit - Crear Producto
 
 Actualizar:<br>
 <a href="">Commit - PENDIENTE
