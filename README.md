@@ -90,7 +90,6 @@ Creando el Endpoint para DELETE:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/4ba20a5d9ff07dee5fe970facb5365b25c1c3704">Commit - EndPoint Delete Product
 
 <h2>Intro Testing de API's y Herramientas:</h2><br>
-(Solo explicativo, aun sin codificar)
 
 Primer test:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/44429084195dd9ce427bca682741fe37ea87ec03">Commit - Primer test
@@ -137,53 +136,142 @@ Forzar errores - prueba de catchs:<br>
 
 <h2>Documentar los Apis:</h2><br>
 Intro:<br>
+<a href="">Commit - PENDIENTE
+ 
 Swagger:<br>
+<a href="">Commit - PENDIENTE
+
 Documentando todos los productos:<br>
+<a href="">Commit - PENDIENTE
+
 Productos x ID:<br>
+<a href="">Commit - PENDIENTE
+
 Crear Producto:<br>
+<a href="">Commit - PENDIENTE
+
 Actualizar:<br>
+<a href="">Commit - PENDIENTE
+
 Documentando Patch y RETO 08:<br>
+<a href="">Commit - PENDIENTE
+
 Sol. RETO:<br>
+<a href="">Commit - PENDIENTE
+
 Cambiar logotipo Swagger por el propio:<br>
+<a href="">Commit - PENDIENTE
 
 
 <h2>FRONT END con REACT:</h2><br>
 Crear el Proyecto:<br>
+<a href="">Commit - PENDIENTE
+ 
 Agregar Tailwind:<br>
+<a href="">Commit - PENDIENTE
+
 Agregar Data router de React Router :<br>
+<a href="">Commit - PENDIENTE
+
 Trabajando con Layout:<br>
+<a href="">Commit - PENDIENTE
+
 Routing entre pages:<br>
+<a href="">Commit - PENDIENTE
+
 Acciones del Data Router:<br>
+<a href="">Commit - PENDIENTE
+
 Recuperando datos ingresados en form..:<br>
+<a href="">Commit - PENDIENTE
+
 Mensajes de error:<br>
+<a href="">Commit - PENDIENTE
+
 Servicio para interactuar con la REST API :<br>
+<a href="">Commit - PENDIENTE
+
 Validando con ZOD antes -> la REST API:<br>
+<a href="">Commit - PENDIENTE
+
 Enviar la peticón hacia la REST API:<br>
+<a href="">Commit - PENDIENTE
+
 Qué son los CORS :<br>
+<a href="">Commit - PENDIENTE
+
 Habilitación de CORS en el Backend:<br>
+<a href="">Commit - PENDIENTE
+
 Agregar Morgan para el logging en Bk:<br>
+<a href="">Commit - PENDIENTE
+
 Intro a Loaders en React Router:<br>
+<a href="">Commit - PENDIENTE
+
 Mostrando Productos:<br>
+<a href="">Commit - PENDIENTE
+
 Crear ruta para editar Productos:<br>
+<a href="">Commit - PENDIENTE
+
 Boton para editar:<br>
+<a href="">Commit - PENDIENTE
+
 Redireccionar useNavigate:<br>
+<a href="">Commit - PENDIENTE
+
 Habilitar editar internamente:<br>
+<a href="">Commit - PENDIENTE
+
 Habilitar editar desde la URL:<br>
+<a href="">Commit - PENDIENTE
+
 Llenando formulario con el Producto-editar:<br>
+<a href="">Commit - PENDIENTE
+
 Definiendo la acción para editar:<br>
+<a href="">Commit - PENDIENTE
+
 Agregar disponibilidad de edición:<br>
+<a href="">Commit - PENDIENTE
+
 Validad la actualización con ZOD:<br>
+<a href="">Commit - PENDIENTE
+
 Actualización de los productos:<br>
+<a href="">Commit - PENDIENTE
+
 Componente de Formularios reutilizable:<br>
+<a href="">Commit - PENDIENTE
+
 Eliminar - 1 pasos:<br>
+<a href="">Commit - PENDIENTE
+
 Eliminar Productos:<br>
+<a href="">Commit - PENDIENTE
+
 Creando formulario parta disponilibilidad:<br>
+<a href="">Commit - PENDIENTE
+
 Implementar fetcher:<br>
+<a href="">Commit - PENDIENTE
+
 Actualizando la disponibilidad:<br>
+<a href="">Commit - PENDIENTE
 
 <h2>Deployment:</h2><br>
 Checklist deployment:<br>
+<a href="">Commit - PENDIENTE
+ 
 Ajustes del Backend:<br>
+<a href="">Commit - PENDIENTE
+
 Subiendo server hacia Github:<br>
+<a href="">Commit - PENDIENTE
+
 Conectando Server a Render:<br>
+<a href="">Commit - PENDIENTE
+
 Subiendo Frontend a Vercel:<br>
+<a href="">Commit - PENDIENTE
