@@ -133,3 +133,57 @@ Probar otras funciones:<br>
 
 Forzar errores - prueba de catchs:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/71806c497815aa7e5fe938e1e9d55e31cdac608d">Commit - Forcing Errors
+
+
+<h2>Documentar los Apis:</h2><br>
+Intro:<br>
+Swagger:<br>
+Documentando todos los productos:<br>
+Productos x ID:<br>
+Crear Producto:<br>
+Actualizar:<br>
+Documentando Patch y RETO 08:<br>
+Sol. RETO:<br>
+Cambiar logotipo Swagger por el propio:<br>
+
+
+<h2>FRONT END con REACT:</h2>h2<br>
+Crear el Proyecto:<br>
+Agregar Tailwind:<br>
+Agregar Data router de React Router :<br>
+Trabajando con Layout:<br>
+Routing entre pages:<br>
+Acciones del Data Router:<br>
+Recuperando datos ingresados en form..:<br>
+Mensajes de error:<br>
+Servicio para interactuar con la REST API :<br>
+Validando con ZOD antes -> la REST API:<br>
+Enviar la peticón hacia la REST API:<br>
+Qué son los CORS :<br>
+Habilitación de CORS en el Backend:<br>
+Agregar Morgan para el logging en Bk:<br>
+Intro a Loaders en React Router:<br>
+Mostrando Productos:<br>
+Crear ruta para editar Productos:<br>
+Boton para editar:<br>
+Redireccionar useNavigate:<br>
+Habilitar editar internamente:<br>
+Habilitar editar desde la URL:<br>
+Llenando formulario con el Producto-editar:<br>
+Definiendo la acción para editar:<br>
+Agregar disponibilidad de edición:<br>
+Validad la actualización con ZOD:<br>
+Actualización de los productos:<br>
+Componente de Formularios reutilizable:<br>
+Eliminar - 1 pasos:<br>
+Eliminar Productos:<br>
+Creando formulario parta disponilibilidad:<br>
+Implementar fetcher:<br>
+Actualizando la disponibilidad:<br>
+
+<h2>Deployment</h2>:<br>
+Checklist deployment:<br>
+Ajustes del Backend:<br>
+Subiendo server hacia Github:<br>
+Conectando Server a Render:<br>
+Subiendo Frontend a Vercel:<br>
