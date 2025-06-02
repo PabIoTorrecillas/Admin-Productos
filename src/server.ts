@@ -2,6 +2,7 @@ import express from "express";
 import Router from "./router";
 import db from "./config/db";
 import colors from "colors";
+import cors, {CorsOptions} from "cors";
 import swaggerUi from "swagger-ui-express";
 import swaggerSpec, { swaggerUiOptions } from "./config/swagger";
 
@@ -18,6 +19,18 @@ export async function connectDB() {
 }
 connectDB();
 const server = express();
+
+// Permitir conexiones CORS
+const corsOptions:CorsOptions = {
+    origin: function(origin, callback) {
+        if (!origin || origin === process.env.FRONTEND_URL) {
+            callback(null, true);
+        } else {
+            callback(new Error('Error de CORS: El origen no está permitido'));
+        }
+    }
+}
+server.use(cors(corsOptions));
 
 //Leer datos de formulario
 server.use(express.json());
