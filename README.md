@@ -120,7 +120,7 @@ Probando product por ID:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/6fda5df757fed268c5d6bda6fa83ca9dfa1dc94b">Commit - Testing productById
 
 Probando actualización de Productos:<br>
-<a href="">Commit - Middleware
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/93d74ee1b32809502e02ef0d21d8bfde33d9c260">Commit - Testing UpdateProduct
 
 Probando eliminación de Productos:<br>
 <a href="">Commit - Middleware
