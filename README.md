@@ -89,7 +89,7 @@ Put vs Patch:<br>
 Creando el Endpoint para DELETE:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/4ba20a5d9ff07dee5fe970facb5365b25c1c3704">Commit - EndPoint Delete Product
 
-Intro Testing de API's y Herramientas:<br>
+<h2>Intro Testing de API's y Herramientas:</h2><br>
 (Solo explicativo, aun sin codificar)
 
 Primer test:<br>
@@ -147,7 +147,7 @@ Sol. RETO:<br>
 Cambiar logotipo Swagger por el propio:<br>
 
 
-<h2>FRONT END con REACT:</h2>h2<br>
+<h2>FRONT END con REACT:</h2><br>
 Crear el Proyecto:<br>
 Agregar Tailwind:<br>
 Agregar Data router de React Router :<br>
@@ -181,7 +181,7 @@ Creando formulario parta disponilibilidad:<br>
 Implementar fetcher:<br>
 Actualizando la disponibilidad:<br>
 
-<h2>Deployment</h2>:<br>
+<h2>Deployment:</h2><br>
 Checklist deployment:<br>
 Ajustes del Backend:<br>
 Subiendo server hacia Github:<br>
