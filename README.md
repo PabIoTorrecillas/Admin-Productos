@@ -129,7 +129,7 @@ Métricas de validación - Code Coverage:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/3a1a1923f04daf64e8a55508820c154259afedb8">Commit - Code Coverage
 
 Probar otras funciones:<br>
-<a href="">Commit - Middleware
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/1215e0a856b6d7e33d3b4cf2c086ab612d9aeaec">Commit - Testing UpdateAvailability
 
 Forzar errores - prueba de catchs:<br>
 <a href="">Commit - Middleware
