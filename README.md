@@ -114,7 +114,7 @@ Limpiar la BD:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/a6e3c6462acdf08eeb3e9489cb039686e4d28ee7">Commit - Clean DB after Test
  
 Probar la url de productos:<br>
-<a href="">Commit - Middleware
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/974556b74287bbb7c7bd58c0e35f01d4e6d49657">Commit - Testing url products
 
 Probando product por ID:<br>
 <a href="">Commit - Middleware
