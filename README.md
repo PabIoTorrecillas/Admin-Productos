@@ -134,10 +134,10 @@ Forzar errores - prueba de catchs:<br>
 <br><br>
 <h2>Documentar los Apis:</h2>
 Intro:<br>
-<a href="">Commit - PENDIENTE
+(Solo explicativo, aun sin codificar)
  
 Swagger:<br>
-<a href="">Commit - PENDIENTE
+<a href="">Commit - Swagger
 
 Documentando todos los productos:<br>
 <a href="">Commit - PENDIENTE
