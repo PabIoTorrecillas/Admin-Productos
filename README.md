@@ -88,8 +88,8 @@ Put vs Patch:<br>
 
 Creando el Endpoint para DELETE:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/4ba20a5d9ff07dee5fe970facb5365b25c1c3704">Commit - EndPoint Delete Product
-
-<h2>Intro Testing de API's y Herramientas:</h2><br>
+<br>
+<h2>Intro Testing de API's y Herramientas:</h2>
 
 Primer test:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/44429084195dd9ce427bca682741fe37ea87ec03">Commit - Primer test
@@ -162,8 +162,8 @@ Sol. RETO:<br>
 Cambiar logotipo Swagger por el propio:<br>
 <a href="">Commit - PENDIENTE
 
-
-<h2>FRONT END con REACT:</h2><br>
+<br>
+<h2>FRONT END con REACT:</h2>
 Crear el Proyecto:<br>
 <a href="">Commit - PENDIENTE
  
@@ -259,8 +259,8 @@ Implementar fetcher:<br>
 
 Actualizando la disponibilidad:<br>
 <a href="">Commit - PENDIENTE
-
-<h2>Deployment:</h2><br>
+<br>
+<h2>Deployment:</h2>
 Checklist deployment:<br>
 <a href="">Commit - PENDIENTE
  
