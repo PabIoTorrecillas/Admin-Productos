@@ -117,7 +117,7 @@ Probar la url de productos:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/974556b74287bbb7c7bd58c0e35f01d4e6d49657">Commit - Testing url products
 
 Probando product por ID:<br>
-<a href="">Commit - Middleware
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/6fda5df757fed268c5d6bda6fa83ca9dfa1dc94b">Commit - Testing productById
 
 Probando actualización de Productos:<br>
 <a href="">Commit - Middleware

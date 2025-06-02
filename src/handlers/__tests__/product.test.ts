@@ -104,3 +104,85 @@ describe('GET /api/products/:id', () => {
         expect(response.body).toHaveProperty('data');
     })
 })
+
+describe('PUT /api/products/:id', () => {
+    it('Should check a valid Id in the URL', async () => {
+        const response = await request(server)
+                .put('/api/products/not-valid-url')
+                    .send({
+                        name:"Monitor Actualizado",
+                        price:300,
+                        availability:true
+                    });
+
+        expect(response.status).toBe(400);
+        expect(response.body).toHaveProperty('errors');
+        expect(response.body.errors).toHaveLength(1);
+        expect(response.body.errors[0].msg).toBe('El id debe ser un numero');
+    })
+
+    it('Should display validation error messages when updating a product', async () => {
+      const response = await request(server).put(`/api/products/1`).send({});
+      expect(response.status).toBe(400);  
+      expect(response.body).toHaveProperty('errors');
+      expect(response.body.errors).toBeTruthy();
+      expect(response.body.errors).toHaveLength(5);
+
+      expect(response.status).not.toBe(200);
+      expect(response.body).not.toHaveProperty('data');
+    })
+
+    it('Should validate that the price is greater than 0 ', async () => {
+      const response = await request(server)
+        .put(`/api/products/1`)
+            .send({
+                
+                name:"Monitor Actualizado",
+                price:0,
+                availability:true
+
+            });
+      expect(response.status).toBe(400);  
+      expect(response.body).toHaveProperty('errors');
+      expect(response.body.errors).toBeTruthy();
+      expect(response.body.errors).toHaveLength(1);
+      expect(response.body.errors[0].msg).toBe('El precio del producto debe ser mayor a 0');
+
+      expect(response.status).not.toBe(200);
+      expect(response.body).not.toHaveProperty('data');
+    })
+
+    it('Should return a 404 response for a non-exist product', async () => {
+      const productId = 999999;  
+      const response = await request(server)
+        .put(`/api/products/${productId}`)
+            .send({
+                name:"Monitor Actualizado",
+                price:30,
+                availability:true
+
+            });
+      expect(response.status).toBe(404);  
+      expect(response.body.error).toBe('Product not found');
+
+      expect(response.status).not.toBe(200);
+      expect(response.body).not.toHaveProperty('data');
+    })
+
+    it('Should update an existing product with valid data', async () => {
+      const response = await request(server)
+        .put(`/api/products/1`)
+            .send({
+                name:"Monitor Actualizado",
+                price:300,
+                availability:true
+
+            });
+      expect(response.status).toBe(200);  
+      expect(response.body).toHaveProperty('data');
+
+      expect(response.status).not.toBe(400);
+      expect(response.body).not.toHaveProperty('errors');
+    })
+
+})
