@@ -126,7 +126,7 @@ Probando eliminación de Productos:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/63f39bd08f15c9c7812fa1fc79d310490d0bbd0c">Commit - Testing DeleteProduct
 
 Métricas de validación - Code Coverage:<br>
-<a href="">Commit - Middleware
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/3a1a1923f04daf64e8a55508820c154259afedb8">Commit - Code Coverage
 
 Probar otras funciones:<br>
 <a href="">Commit - Middleware
