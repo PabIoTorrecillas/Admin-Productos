@@ -159,7 +159,9 @@ Sol. RETO:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/86ea67e0365a2a2164e443c7f1d0d81d55416b89">Commit - Sol. RETO
 
 Cambiar logotipo Swagger por el propio:<br>
-<a href="">Commit - PENDIENTE
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/b5ca4f8c707a5aa508a6597ca742ac12b21e70e0">Commit - Cambiar logotipo Swagger
+![image](https://github.com/user-attachments/assets/98b4f036-3b1e-437f-b8a4-8bdbf257c533)
+
 <br><br>
 <h2>FRONT END con REACT:</h2>
 Crear el Proyecto:<br>
