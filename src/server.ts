@@ -12,7 +12,7 @@ async function connectDB() {
     }
     catch (error) {
         console.error(error);
-        console.log(colors.red.bold("Huevo un error al conectar a la base de datos"));   
+        console.log(colors.red.bold("Huvo un error al conectar a la base de datos"));   
     }
 }
 connectDB();
