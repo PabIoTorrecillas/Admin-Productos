@@ -150,13 +150,13 @@ Crear Producto:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/3e9091a56c58d18c39884907505fe2f90cf01742">Commit - Crear Producto
 
 Actualizar:<br>
-<a href="">Commit - PENDIENTE
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/b04e740957a37ccd9342f03df845b5616afad3fe">Commit - Actualizar
 
 Documentando Patch y RETO 08:<br>
-<a href="">Commit - PENDIENTE
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/03a8834fe79f2d0ecc18cb6351893cc080e4847b">Commit - Documentando Patch
 
 Sol. RETO:<br>
-<a href="">Commit - PENDIENTE
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos/commit/86ea67e0365a2a2164e443c7f1d0d81d55416b89">Commit - Sol. RETO
 
 Cambiar logotipo Swagger por el propio:<br>
 <a href="">Commit - PENDIENTE
