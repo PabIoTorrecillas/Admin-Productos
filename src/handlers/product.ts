@@ -7,7 +7,7 @@ try {
             order:[
                 ['price', 'DESC']
             ],
-            attributes:{exclude:['createdAt', 'updatedAt','availability']},
+            attributes:{exclude:['createdAt', 'updatedAt']},
             })
         res.json({data:products})
     
@@ -21,7 +21,7 @@ try {
         const { id } = req.params;
         const product = await Product.findByPk(id,{
             attributes:{exclude:[
-                'createdAt', 'updatedAt','availability'
+                'createdAt', 'updatedAt'
             ]}
         })
         
